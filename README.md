@@ -26,10 +26,11 @@ This project contains automated tests for validating RESTful API endpoints using
 
 
 ### Setup Instructions
-1. **Clone the Repository**:
+**Clone the Repository**:
    ```bash
    git clone <repository-url>
    cd NUnitTestChallenge2
+**All the tests are under the file UnitTest1.cs under the NUnitChallenge2 folder.**
 
 ### Run tests 
 - Run the tests from Visual Studio or use the command line:
